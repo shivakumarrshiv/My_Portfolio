@@ -9,7 +9,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/shivakumarrshiv",
-  resume:"https://drive.google.com/file/d/1TW4Rc_W54Lpd8QAiISalwV49ecYmn7vk/view?usp=sharing",
+  resume:"https://drive.google.com/file/d/1-ROe47HQxmiJOfUUIafGNh8UeXr6gzdb/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/shivakumar9148",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://twitter.com/shivakumarrshiv",
